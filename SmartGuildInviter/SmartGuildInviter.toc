@@ -1,0 +1,9 @@
+## Interface: 120000, 120005, 120001, 100200, 100100, 100000, 90005, 90002, 90001, 30403, 20504, 11404, 30300, 11403, 20501
+## Title: Smart Guild Inviter
+## Notes: Universal guild invitation tool for all WoW versions (3.3.5 - 12.0)
+## Author: Ayro
+## Version: 2.2-Universal
+## SavedVariables: SGI_Config, SGI_MinimapPos
+## OptionalDeps: Ace3
+
+SmartGuildInviter.lua
